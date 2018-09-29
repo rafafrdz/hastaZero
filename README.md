@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/rafafrdz/Leap-Year/master/ejercicio.png)
+![](https://raw.githubusercontent.com/rafafrdz/hastaZero/master/ejercicio.png)
 
 * Python
 
@@ -44,5 +44,3 @@ def hastaZero():
     print("Máximo = " + maximo + ", Mínimo = " + minimo + ", Promedio = " + (suma/cont) )
   }
   ```
-
-
